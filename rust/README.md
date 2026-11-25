@@ -10,6 +10,8 @@ Learn the fundamentals of Rust through short explanations, runnable examples, an
   cargo --version
   ```
 
+> **Coming from C# (or Java/TypeScript)?** Start with the 5-minute [Rust Syntax & C# Comparison Guide](./SYNTAX_AND_CSHARP_GUIDE.md) before diving into Module 01.
+
 ## How This Course Works
 
 The entire `rust/` folder is a **Cargo workspace**. From inside `rust/`, you can run or test any module:
