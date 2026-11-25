@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Rust
+/rust/target/
+**/target/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local env / temporary files
+.env
+*.tmp
+tasks.txt

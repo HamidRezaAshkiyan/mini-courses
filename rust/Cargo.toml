@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "01-basics",
+    "02-ownership-and-borrowing",
+    "03-structs-enums-matching",
+    "04-error-handling-and-collections",
+    "05-mini-project",
+]
