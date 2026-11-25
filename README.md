@@ -10,6 +10,8 @@ Each course takes roughly **1–3 hours** to complete and combines concise expla
 | --- | --- | --- | --- |
 | [Kubernetes Basics](./kubernetes/README.md) | Beginner | 5 | Deploy pods, scale deployments, expose services, inject config/secrets, and run a 2-tier app |
 | [Rust Basics](./rust/README.md) | Beginner | 5 | Master ownership, structs/enums, error handling, and build a zero-dependency CLI task tracker |
+| [Docker Basics](./docker/README.md) | Beginner | 5 | Build Dockerfiles, manage volumes & networks, and run a 2-tier Visit Counter API with Compose |
+| [Design Patterns](./design-patterns/README.md) | Beginner–Intermediate | 5 | Practice Strategy, Factory, Builder, Singleton, Adapter, Decorator, Observer & Command in an order pipeline |
 
 ## How to Use This Repo
 

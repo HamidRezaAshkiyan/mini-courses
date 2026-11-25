@@ -5,6 +5,10 @@
 /rust/target/
 **/target/
 
+# Python
+__pycache__/
+*.py[cod]
+
 # Editor / IDE
 .vscode/
 .idea/
